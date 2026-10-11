@@ -1,0 +1,25 @@
+{
+  "name": "king-banned",
+  "version": "1.0.0",
+  "description": "King Banned - Interactive web application",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "npx serve -s ."
+  },
+  "keywords": [
+    "king",
+    "banned"
+  ],
+  "author": "kingstark821",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
