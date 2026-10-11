@@ -248,8 +248,11 @@ Ce projet est fourni sans licence définie pour l'instant. Ajoutez une licence s
 
 ## 📧 Contact
 
-Pour toute question ou contribution, ouvrez une issue ou une pull request.
+Pour toute question sur l'e-mail 
+<support.kinggenerator@gmail.com>
 
 ---
 
-**Dernière mise à jour :** 11 Octobre 2026
+**Date de création :** 11 Octobre 2026
+
+DERNIER MISE À JOUR : pas encore 
