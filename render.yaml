@@ -1,6 +1,7 @@
 services:
   - type: web
     name: king-banned
+    env: node
     plan: free
-      - key: NODE_VERSION
-        value: 20.18.0
+    buildCommand: npm install
+    startCommand: npm start
